@@ -84,7 +84,7 @@ span {
   text-align: center;
   padding: 64px 0;
   background: linear-gradient(135deg, rgba(30, 27, 75, 0.9), rgba(15, 23, 42, 0.9)), 
-              url('./_img/moon-background.webp') no-repeat center center;
+              url('/_img/moon-background.webp') no-repeat center center;
               background-size: 100%;
   color: white;
 }
@@ -648,7 +648,7 @@ box-shadow: inset 0px 200px 249px -200px rgba(249,117,22,1);
 /* CTA */
 .cta {
   background: linear-gradient(135deg, #1e1b4be6, #0f172ae6), 
-              url('./_img/moon-background.webp') no-repeat center center;
+              url('/_img/moon-background.webp') no-repeat center center;
               background-size: 100%;
   color: white;
   padding: 64px 0;
