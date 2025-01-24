@@ -19,10 +19,10 @@ class bodyHidden extends HTMLElement {
               <div class="price-tag">
                 <p class="price-text">De: <s>R$ 49,99</s></p>
                 <p class="price-value">Por R$ 9,99</p>
-                <button rel="noopener" href="https://pay.hotmart.com/N97718490S" class="cta-button">
+                <a rel="noopener" href="https://pay.hotmart.com/N97718490S" class="cta-button">
                   Comprar Agora
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-                </button>
+                </a>
                 <p class="price-note">(Oferta válida por tempo limitado,</p>
                 <p class="price-note">80% de desconto)</p>
               </div>
@@ -121,7 +121,7 @@ class bodyHidden extends HTMLElement {
     
       <section class="special-offer">
         <h2>Tudo isso por apenas <span>R$9,99.</span></h2>
-        <button class="cta-button">QUERO MELHORAR MEU CURRÍCULO</button>
+        <a class="cta-button">QUERO MELHORAR MEU CURRÍCULO</a>
         <p class="price-note">(Oferta válida por tempo limitado.)</p>
         <div class="icons">
           <div class="icon-item">
@@ -225,7 +225,7 @@ class bodyHidden extends HTMLElement {
             <h3>Guia Prático de Currículos</h3>
             <p class="price"><span>De R$ 49,99</span> R$ <strong>9,99</strong></p>
             <p class="installment">(ou 1x no cartão)</p>
-            <button rel="noopener" href="https://pay.hotmart.com/N97718490S" class="cta-button">COMPRAR AGORA!</button>
+            <a rel="noopener" href="https://pay.hotmart.com/N97718490S" class="cta-button">COMPRAR AGORA!</a>
             <p class="price-note">(Oferta válida por tempo limitado.)</p>
             <div class="guarantees">
               <span>✅ 100% seguro</span>
@@ -262,10 +262,10 @@ class bodyHidden extends HTMLElement {
           <h2>Não perca mais oportunidades por causa do seu currículo</h2>
           <p>Aproveite o desconto especial e transforme seu currículo hoje mesmo!</p>
           <h1 class="final-price">De: <s>R$ 49,99</s> por apenas R$ 9,99</h1>
-          <button rel="noopener" href="https://pay.hotmart.com/N97718490S" class="cta-button">
+          <a rel="noopener" href="https://pay.hotmart.com/N97718490S" class="cta-button">
             COMPRAR AGORA
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
-          </button>
+          </a>
           <p class="price-note">(Oferta válida por tempo limitado.)</p>
         </div>
       </section>
